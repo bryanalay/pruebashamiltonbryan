@@ -33,4 +33,4 @@ Tome un curso de computacion en un instituto "Centro de Capacitacion Avanzada" p
 -AFTER EFFECTS<br>
 -PROGRAMACION BASICA<br>
 -MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE COMPUTADORAS<br>
- Obtuve el diploma de haberme graduado y aprendido todo lo necesario.
+ Obtuve el diploma de haberme graduado y completado al 100% el curso.
