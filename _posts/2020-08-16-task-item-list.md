@@ -1,6 +1,6 @@
 ---
 layout: post
-title: temas de mi interés
+title: Temas de mi interés
 ---
 Aqui estan mis intereses en cuanto a la carrera
 
