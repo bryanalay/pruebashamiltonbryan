@@ -13,10 +13,7 @@ Aqui expongo toda mi biografia como estudiante, escuela, colegio, cursos en los 
 ---
 
 ## Escuela 
-
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
-
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+Estudie en la escuela particular "Crlos Ordoñez Goetta" cerca de mi casa (bastion popular bloque 2) me gradue de la escuela ya hace 8 años, alli conoci a mis amigos de la infancia aunque ahora no tengo contacto con absolutamente nadie de mi aula, obtube una nota promedio total de 18,5 (en ese tiempo se calificaba sobre 20)
 
 ## Colegio 
 
