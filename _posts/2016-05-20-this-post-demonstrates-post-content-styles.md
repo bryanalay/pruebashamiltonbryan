@@ -24,13 +24,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eg
 
 ## Cursos 
 
-Tome un curso de computacion en un instituto "Centro de Capacitacion Avanzada" por 2 años donde aprendi varias cosas:
--WORD
--EXEL
--PHOTOSHOP
--ADOBE ILLUSTRATOR
--PUBLISHED
--AFTER EFFECTS
--PROGRAMACION BASICA
--MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE COMPUTADORAS
+Tome un curso de computacion en un instituto "Centro de Capacitacion Avanzada" por 2 años donde aprendi varias cosas:<br>
+-WORD<br>
+-EXEL<br>
+-PHOTOSHOP<br>
+-ADOBE ILLUSTRATOR<br>
+-PUBLISHED<br>
+-AFTER EFFECTS<br>
+-PROGRAMACION BASICA<br>
+-MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE COMPUTADORAS<br>
  Obtuve el diploma de haberme graduado y aprendido todo lo necesario.
