@@ -9,4 +9,4 @@ tags: [test, hello]
 Aqui expongo mi biografia en un resumen.
 
 
-Bryan Miguel Alay Miranda, 07/05/2001 Guayaquil Ecuador 
+Bryan Miguel Alay Miranda, 07/05/2001 Guayaquil-Ecuador, mi madre es Ines Miranda Castro y mi padre es Miguel Alay Sanches
